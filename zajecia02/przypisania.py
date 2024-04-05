@@ -18,9 +18,13 @@ imie, nazwisko, _, _, zawod = info
 print(f'{imie}, {nazwisko}, {zawod}')
 
 #zad 9
-dane = (2024, ['Python', 3.8, ('Stabilna', 'Wersja')])
+dane2 = (2024, ['Python', 3.8, ('Stabilna', 'Wersja')])
 
-rok, [jezyk, wersja, opis] = dane
+rok2, lista = dane2
 
-print(f'{rok}, {jezyk}, {wersja}, {opis}')
+jezyk2, wersja2, opis2 = lista 
+
+print(f'{rok2}, {jezyk2}, {wersja2}, {opis2}')
+
+
 
