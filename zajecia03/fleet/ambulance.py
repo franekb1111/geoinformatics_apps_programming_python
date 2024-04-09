@@ -1,7 +1,9 @@
 # V1 - slajd 8
+import math
+
 class Ambulance:
-    __slots__ = ['id', 'vehicle_type', 'status', 'location', 'medical_equipment']
-    __instances_count = 0
+    __slots__ = ['id', 'vehicle_type', 'status', 'location', 'medical_equipment', 'is_assigned', 'incident_location']
+    __max_id = 0
 
     def __init__(self, id, vehicle_type, status, location, medical_equipment):
         self.id = id
@@ -9,7 +11,9 @@ class Ambulance:
         self.status = status  # e.g., "available", "on_mission", "servicing"
         self.location = location # as (northing, easting)
         self.medical_equipment = medical_equipment  # List of medical equipment names
-        Ambulance.__instances_count += 1
+        self.is_assigned = False
+        self.incident_location = None
+        Ambulance.__max_id += 1
 
     def update_location(self, new_location):
         self.location = new_location
@@ -30,7 +34,21 @@ class Ambulance:
 
     @classmethod
     def get_instances_count(cls):
-        return f"Number of working ambulances: {cls.__instances_count}"
+        return f"Number of working ambulances: {cls.__max_id}"
+    
+    def check_availability(self):
+        stan = not self.is_assigned
+        if(stan == True):
+            return f"Karetka nr {self.id} dostępna"
+        else:
+            return f"Karetka nr {self.id} niedostępna"
+        
+    def check_distance_from_incident(self):
+        if (self.incident_location != None):
+            distance = math.sqrt( (self.location[0] - self.incident_location[0])**2 + (self.location[1] - self.incident_location[1])**2)
+            return f"Karetka nr {self.id} jest w odległości {distance} od wypadku"
+        else:
+            return f"Karetka nr {self.id} nie została wysłana na misję"
 
 if __name__ == "__main__":
     ambulance1 = Ambulance(

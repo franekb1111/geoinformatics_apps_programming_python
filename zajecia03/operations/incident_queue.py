@@ -1,8 +1,15 @@
 from .incident import Incident
 
 class IncidentQueue:
+    __max_id = 0
+
     def __init__(self):
         self.__queue = []
+        IncidentQueue.__max_id += 1
+
+    @classmethod
+    def get_instances_count(cls):
+        return f"Number of active incident queues: {cls.__max_id}"
 
     def __getitem__(self, position):
         return self.__queue[position]
