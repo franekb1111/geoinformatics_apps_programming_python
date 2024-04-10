@@ -1,1 +1,0 @@
-# geoinformatics_apps_programming_python
