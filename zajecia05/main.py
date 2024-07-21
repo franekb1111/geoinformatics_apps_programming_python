@@ -2,10 +2,14 @@ from fleet.ambulance import Ambulance
 from operations import *
 from personnel import *
 from fleet.station import Station
+from log_config import setup_logging
 
 def run_application():
+    logger = setup_logging()
+    logger.info("Logger active")
+
     # zdefiniowanie naszych zasobów
-    ambulance1 = Ambulance(1, "Type A", "on mission", (50.095340, 18.920282), ["Defibrillator", "Oxygen tank"])
+    ambulance1 = Ambulance(1, "Type A", "on mission", (64.095340, 90.920282), ["Defibrillator", "Oxygen tank"])
     ambulance2 = Ambulance(2, "Type B", "on mission", (50.095340, 19.920282), ["Stretcher", "First Aid Kit"])
     ambulance3 = Ambulance(3, "Type B", "available", (55.095440, 11.920282), ["Stretcher", "First Aid Kit"])
 
@@ -15,8 +19,7 @@ def run_application():
     driver1 = Driver("Mike", "Johnson", 125, 10000.0, "DL12345", ["BLS"])
     driver2 = Driver("Anna", "Brown", 126, 11500.0, "DL12346", ["ALS", "PHTLS"])
 
-
-    station1 = Station(1, (50.095340, 18.920282), ambulance1, driver1, employee1)
+    station1 = Station(1, (71.095340, 18.920282), ambulance1, driver1, employee1)
     station2 = Station(1, (51.155347, 17.528583), ambulance2, driver2, employee2)
 
     # sprawdzenie czy to czasem nie są te same karetki

@@ -1,6 +1,7 @@
 import importlib
 import datetime
 from fleet.ambulance import Ambulance
+from log_config import setup_logging
 
 class Incident:
     __max_id = 0
@@ -16,6 +17,12 @@ class Incident:
         self.ambulance.incident_location = location
         self.location = location
         Incident.__max_id += 1
+
+        
+        logger = setup_logging()
+        if(type(id) != int ):
+            logger.error("ID musi byc w poprawnym formacie (liczba naturalna) (incident)")
+
 
     @classmethod
     def get_instances_count(cls):

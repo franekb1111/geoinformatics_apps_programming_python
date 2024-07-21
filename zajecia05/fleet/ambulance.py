@@ -1,5 +1,6 @@
 # V1 - slajd 8
 import math
+from log_config import setup_logging
 
 class Ambulance:
     __slots__ = ['id', 'vehicle_type', 'status', 'location', 'medical_equipment', 'is_assigned', 'incident_location']
@@ -14,6 +15,12 @@ class Ambulance:
         self.is_assigned = False
         self.incident_location = None
         Ambulance.__max_id += 1
+
+        logger = setup_logging()
+        if(location[0] > 90 or location[0] < -90):
+            logger.error("Dlugosc geograficzna musi byc w przedziale (-90, 90) dla kartetki")
+        if(location[1] > 180 or location[1] < -180):
+            logger.error("Szerokosc geograficzna musi byc w przedziale (-180, 180) dla kartetki")
 
     def update_location(self, new_location):
         self.location = new_location

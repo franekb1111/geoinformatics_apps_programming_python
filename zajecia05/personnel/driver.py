@@ -1,6 +1,7 @@
 # V1 - slajd 8: python -m personnel.driver
 from .employee import Employee
 
+
 class Driver(Employee):
     __max_id = 0
 

@@ -1,4 +1,5 @@
 from .incident import Incident
+from log_config import setup_logging
 
 class IncidentQueue:
     __max_id = 0
@@ -69,6 +70,8 @@ class IncidentQueue:
             if incident.id == id:
                 return incident
             pass
+        logger = setup_logging()
+        logger.error("No incident found with the given ID")
         raise ValueError("No incident found with the given ID")
 
     def __lt__(self, other):

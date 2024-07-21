@@ -1,3 +1,5 @@
+from log_config import setup_logging
+
 class Employee:
     __max_id = 0
 
@@ -7,6 +9,10 @@ class Employee:
         self.employee_id = employee_id
         self.salary = salary
         Employee.__max_id += 1
+
+        logger = setup_logging()
+        if(type(employee_id) != int ):
+            logger.error("ID musi byc w poprawnym formacie (liczba naturalna)")
 
     @classmethod
     def get_instances_count(cls):
