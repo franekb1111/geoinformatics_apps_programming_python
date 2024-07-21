@@ -1,0 +1,186 @@
+
+2024-07-21 13:47:21,310 - log_config - INFO - Logger active
+2024-07-21 13:47:21,310 - log_config - ERROR - Dlugosc geograficzna musi byc w przedziale (-90, 90)
+2024-07-21 13:47:21,310 - log_config - ERROR - Dlugosc geograficzna musi byc w przedziale (-90, 90)
+2024-07-21 13:47:32,131 - log_config - INFO - Logger active
+2024-07-21 13:49:09,256 - log_config - INFO - Logger active
+2024-07-21 13:49:20,358 - log_config - INFO - Logger active
+2024-07-21 13:49:28,372 - log_config - INFO - Logger active
+2024-07-21 13:49:28,372 - log_config - ERROR - Szerokosc geograficzna musi byc w przedziale (-180, 180)
+2024-07-21 13:49:28,372 - log_config - ERROR - Szerokosc geograficzna musi byc w przedziale (-180, 180)
+2024-07-21 13:49:36,172 - log_config - INFO - Logger active
+2024-07-21 13:49:36,173 - log_config - ERROR - Szerokosc geograficzna musi byc w przedziale (-180, 180)
+2024-07-21 13:49:36,173 - log_config - ERROR - Szerokosc geograficzna musi byc w przedziale (-180, 180)
+2024-07-21 13:49:59,195 - log_config - INFO - Logger active
+2024-07-21 13:51:16,117 - log_config - INFO - Logger active
+2024-07-21 13:51:16,118 - log_config - ERROR - Szerokosc geograficzna musi byc w przedziale (-180, 180)
+2024-07-21 13:51:16,118 - log_config - ERROR - Szerokosc geograficzna musi byc w przedziale (-180, 180)
+2024-07-21 13:51:38,484 - log_config - INFO - Logger active
+2024-07-21 13:51:38,485 - log_config - ERROR - Szerokosc geograficzna musi byc w przedziale (-180, 180)
+2024-07-21 13:51:38,485 - log_config - ERROR - Szerokosc geograficzna musi byc w przedziale (-180, 180)
+2024-07-21 13:51:52,703 - log_config - INFO - Logger active
+2024-07-21 13:51:52,704 - log_config - ERROR - Dlugosc geograficzna musi byc w przedziale (-90, 90)
+2024-07-21 13:51:52,704 - log_config - ERROR - Dlugosc geograficzna musi byc w przedziale (-90, 90)
+2024-07-21 13:58:11,465 - log_config - INFO - Logger active
+2024-07-21 13:58:27,671 - log_config - INFO - Logger active
+2024-07-21 13:58:27,672 - log_config - ERROR - ID musi by� w poprawnym formacie (liczba naturalna)
+2024-07-21 13:58:27,672 - log_config - ERROR - ID musi by� w poprawnym formacie (liczba naturalna)
+2024-07-21 13:58:27,672 - log_config - ERROR - ID musi by� w poprawnym formacie (liczba naturalna)
+2024-07-21 13:58:27,672 - log_config - ERROR - ID musi by� w poprawnym formacie (liczba naturalna)
+2024-07-21 13:58:27,672 - log_config - ERROR - ID musi by� w poprawnym formacie (liczba naturalna)
+2024-07-21 13:59:41,545 - log_config - INFO - Logger active
+2024-07-21 13:59:41,546 - log_config - ERROR - ID musi by� w poprawnym formacie (liczba naturalna) dla kierowcy
+2024-07-21 13:59:41,546 - log_config - ERROR - ID musi by� w poprawnym formacie (liczba naturalna) dla kierowcy
+2024-07-21 13:59:41,546 - log_config - ERROR - ID musi by� w poprawnym formacie (liczba naturalna) dla kierowcy
+2024-07-21 13:59:41,546 - log_config - ERROR - ID musi by� w poprawnym formacie (liczba naturalna) dla kierowcy
+2024-07-21 13:59:41,546 - log_config - ERROR - ID musi by� w poprawnym formacie (liczba naturalna) dla kierowcy
+2024-07-21 13:59:41,546 - log_config - ERROR - ID musi by� w poprawnym formacie (liczba naturalna) dla kierowcy
+2024-07-21 13:59:41,546 - log_config - ERROR - ID musi by� w poprawnym formacie (liczba naturalna) dla kierowcy
+2024-07-21 14:00:04,576 - log_config - INFO - Logger active
+2024-07-21 14:00:04,577 - log_config - ERROR - ID musi by� w poprawnym formacie (liczba naturalna)
+2024-07-21 14:00:04,577 - log_config - ERROR - ID musi by� w poprawnym formacie (liczba naturalna)
+2024-07-21 14:00:04,577 - log_config - ERROR - ID musi by� w poprawnym formacie (liczba naturalna)
+2024-07-21 14:00:04,577 - log_config - ERROR - ID musi by� w poprawnym formacie (liczba naturalna)
+2024-07-21 14:00:04,577 - log_config - ERROR - ID musi by� w poprawnym formacie (liczba naturalna)
+2024-07-21 14:11:56,179 - log_config - INFO - Logger active
+2024-07-21 14:12:09,406 - log_config - INFO - Logger active
+2024-07-21 14:12:09,408 - log_config - ERROR - ID musi byc w poprawnym formacie (liczba naturalna) (incident)
+2024-07-21 14:12:09,408 - log_config - ERROR - ID musi byc w poprawnym formacie (liczba naturalna) (incident)
+2024-07-21 14:12:09,408 - log_config - ERROR - ID musi byc w poprawnym formacie (liczba naturalna) (incident)
+2024-07-21 14:12:09,408 - log_config - ERROR - ID musi byc w poprawnym formacie (liczba naturalna) (incident)
+2024-07-21 14:12:09,408 - log_config - ERROR - ID musi byc w poprawnym formacie (liczba naturalna) (incident)
+2024-07-21 14:12:09,408 - log_config - ERROR - ID musi byc w poprawnym formacie (liczba naturalna) (incident)
+2024-07-21 14:12:09,408 - log_config - ERROR - ID musi byc w poprawnym formacie (liczba naturalna) (incident)
+2024-07-21 14:12:09,408 - log_config - ERROR - ID musi byc w poprawnym formacie (liczba naturalna) (incident)
+2024-07-21 14:12:09,408 - log_config - ERROR - ID musi byc w poprawnym formacie (liczba naturalna) (incident)
+2024-07-21 14:12:09,408 - log_config - ERROR - ID musi byc w poprawnym formacie (liczba naturalna) (incident)
+2024-07-21 14:12:09,408 - log_config - ERROR - ID musi byc w poprawnym formacie (liczba naturalna) (incident)
+2024-07-21 14:12:17,913 - log_config - INFO - Logger active
+2024-07-21 14:36:10,072 - log_config - INFO - Test session starts
+2024-07-21 14:36:10,107 - log_config - INFO - Test tests/test_ambulance.py::test_initialization passed
+2024-07-21 14:36:10,107 - log_config - INFO - Test tests/test_ambulance.py::test_initialization passed
+2024-07-21 14:36:10,109 - log_config - INFO - Test tests/test_ambulance.py::test_check_availability passed
+2024-07-21 14:36:10,109 - log_config - INFO - Test tests/test_ambulance.py::test_check_availability passed
+2024-07-21 14:36:10,109 - log_config - INFO - Test tests/test_ambulance.py::test_check_availability passed
+2024-07-21 14:36:10,111 - log_config - INFO - Test tests/test_incident.py::test_initialization passed
+2024-07-21 14:36:10,111 - log_config - INFO - Test tests/test_incident.py::test_initialization passed
+2024-07-21 14:36:10,111 - log_config - INFO - Test tests/test_incident.py::test_initialization passed
+2024-07-21 14:36:10,111 - log_config - INFO - Test tests/test_incident.py::test_initialization passed
+2024-07-21 14:36:10,111 - log_config - INFO - Test tests/test_incident.py::test_initialization passed
+2024-07-21 14:36:10,114 - log_config - INFO - Test tests/test_incident.py::test_check_time_passed passed
+2024-07-21 14:36:10,114 - log_config - INFO - Test tests/test_incident.py::test_check_time_passed passed
+2024-07-21 14:36:10,114 - log_config - INFO - Test tests/test_incident.py::test_check_time_passed passed
+2024-07-21 14:36:10,114 - log_config - INFO - Test tests/test_incident.py::test_check_time_passed passed
+2024-07-21 14:36:10,114 - log_config - INFO - Test tests/test_incident.py::test_check_time_passed passed
+2024-07-21 14:36:10,114 - log_config - INFO - Test tests/test_incident.py::test_check_time_passed passed
+2024-07-21 14:36:10,114 - log_config - INFO - Test tests/test_incident.py::test_check_time_passed passed
+2024-07-21 14:36:10,116 - log_config - INFO - Test tests/test_personnel.py::test_employee_initialization passed
+2024-07-21 14:36:10,116 - log_config - INFO - Test tests/test_personnel.py::test_employee_initialization passed
+2024-07-21 14:36:10,116 - log_config - INFO - Test tests/test_personnel.py::test_employee_initialization passed
+2024-07-21 14:36:10,116 - log_config - INFO - Test tests/test_personnel.py::test_employee_initialization passed
+2024-07-21 14:36:10,116 - log_config - INFO - Test tests/test_personnel.py::test_employee_initialization passed
+2024-07-21 14:36:10,116 - log_config - INFO - Test tests/test_personnel.py::test_employee_initialization passed
+2024-07-21 14:36:10,116 - log_config - INFO - Test tests/test_personnel.py::test_employee_initialization passed
+2024-07-21 14:36:10,116 - log_config - INFO - Test tests/test_personnel.py::test_employee_initialization passed
+2024-07-21 14:36:10,118 - log_config - INFO - Test tests/test_personnel.py::test_employee_update_salary passed
+2024-07-21 14:36:10,118 - log_config - INFO - Test tests/test_personnel.py::test_employee_update_salary passed
+2024-07-21 14:36:10,118 - log_config - INFO - Test tests/test_personnel.py::test_employee_update_salary passed
+2024-07-21 14:36:10,118 - log_config - INFO - Test tests/test_personnel.py::test_employee_update_salary passed
+2024-07-21 14:36:10,118 - log_config - INFO - Test tests/test_personnel.py::test_employee_update_salary passed
+2024-07-21 14:36:10,118 - log_config - INFO - Test tests/test_personnel.py::test_employee_update_salary passed
+2024-07-21 14:36:10,118 - log_config - INFO - Test tests/test_personnel.py::test_employee_update_salary passed
+2024-07-21 14:36:10,118 - log_config - INFO - Test tests/test_personnel.py::test_employee_update_salary passed
+2024-07-21 14:36:10,118 - log_config - INFO - Test tests/test_personnel.py::test_employee_update_salary passed
+2024-07-21 14:36:10,120 - log_config - INFO - Test tests/test_personnel.py::test_driver_initialization passed
+2024-07-21 14:36:10,120 - log_config - INFO - Test tests/test_personnel.py::test_driver_initialization passed
+2024-07-21 14:36:10,120 - log_config - INFO - Test tests/test_personnel.py::test_driver_initialization passed
+2024-07-21 14:36:10,120 - log_config - INFO - Test tests/test_personnel.py::test_driver_initialization passed
+2024-07-21 14:36:10,120 - log_config - INFO - Test tests/test_personnel.py::test_driver_initialization passed
+2024-07-21 14:36:10,120 - log_config - INFO - Test tests/test_personnel.py::test_driver_initialization passed
+2024-07-21 14:36:10,120 - log_config - INFO - Test tests/test_personnel.py::test_driver_initialization passed
+2024-07-21 14:36:10,120 - log_config - INFO - Test tests/test_personnel.py::test_driver_initialization passed
+2024-07-21 14:36:10,120 - log_config - INFO - Test tests/test_personnel.py::test_driver_initialization passed
+2024-07-21 14:36:10,120 - log_config - INFO - Test tests/test_personnel.py::test_driver_initialization passed
+2024-07-21 14:36:10,121 - log_config - INFO - Test tests/test_personnel.py::test_driver_update_salary passed
+2024-07-21 14:36:10,121 - log_config - INFO - Test tests/test_personnel.py::test_driver_update_salary passed
+2024-07-21 14:36:10,121 - log_config - INFO - Test tests/test_personnel.py::test_driver_update_salary passed
+2024-07-21 14:36:10,121 - log_config - INFO - Test tests/test_personnel.py::test_driver_update_salary passed
+2024-07-21 14:36:10,121 - log_config - INFO - Test tests/test_personnel.py::test_driver_update_salary passed
+2024-07-21 14:36:10,121 - log_config - INFO - Test tests/test_personnel.py::test_driver_update_salary passed
+2024-07-21 14:36:10,121 - log_config - INFO - Test tests/test_personnel.py::test_driver_update_salary passed
+2024-07-21 14:36:10,121 - log_config - INFO - Test tests/test_personnel.py::test_driver_update_salary passed
+2024-07-21 14:36:10,121 - log_config - INFO - Test tests/test_personnel.py::test_driver_update_salary passed
+2024-07-21 14:36:10,121 - log_config - INFO - Test tests/test_personnel.py::test_driver_update_salary passed
+2024-07-21 14:36:10,121 - log_config - INFO - Test tests/test_personnel.py::test_driver_update_salary passed
+2024-07-21 14:36:10,124 - log_config - INFO - Test tests/test_station.py::test_station_initialization passed
+2024-07-21 14:36:10,124 - log_config - INFO - Test tests/test_station.py::test_station_initialization passed
+2024-07-21 14:36:10,124 - log_config - INFO - Test tests/test_station.py::test_station_initialization passed
+2024-07-21 14:36:10,124 - log_config - INFO - Test tests/test_station.py::test_station_initialization passed
+2024-07-21 14:36:10,124 - log_config - INFO - Test tests/test_station.py::test_station_initialization passed
+2024-07-21 14:36:10,124 - log_config - INFO - Test tests/test_station.py::test_station_initialization passed
+2024-07-21 14:36:10,124 - log_config - INFO - Test tests/test_station.py::test_station_initialization passed
+2024-07-21 14:36:10,124 - log_config - INFO - Test tests/test_station.py::test_station_initialization passed
+2024-07-21 14:36:10,124 - log_config - INFO - Test tests/test_station.py::test_station_initialization passed
+2024-07-21 14:36:10,124 - log_config - INFO - Test tests/test_station.py::test_station_initialization passed
+2024-07-21 14:36:10,124 - log_config - INFO - Test tests/test_station.py::test_station_initialization passed
+2024-07-21 14:36:10,124 - log_config - INFO - Test tests/test_station.py::test_station_initialization passed
+2024-07-21 14:36:10,124 - log_config - INFO - Test tests/test_station.py::test_station_initialization passed
+2024-07-21 14:36:10,124 - log_config - INFO - Test tests/test_station.py::test_station_initialization passed
+2024-07-21 14:36:10,124 - log_config - INFO - Test tests/test_station.py::test_station_initialization passed
+2024-07-21 14:36:10,127 - log_config - INFO - Test tests/test_station.py::test_check_location passed
+2024-07-21 14:36:10,127 - log_config - INFO - Test tests/test_station.py::test_check_location passed
+2024-07-21 14:36:10,127 - log_config - INFO - Test tests/test_station.py::test_check_location passed
+2024-07-21 14:36:10,127 - log_config - INFO - Test tests/test_station.py::test_check_location passed
+2024-07-21 14:36:10,127 - log_config - INFO - Test tests/test_station.py::test_check_location passed
+2024-07-21 14:36:10,127 - log_config - INFO - Test tests/test_station.py::test_check_location passed
+2024-07-21 14:36:10,127 - log_config - INFO - Test tests/test_station.py::test_check_location passed
+2024-07-21 14:36:10,127 - log_config - INFO - Test tests/test_station.py::test_check_location passed
+2024-07-21 14:36:10,127 - log_config - INFO - Test tests/test_station.py::test_check_location passed
+2024-07-21 14:36:10,127 - log_config - INFO - Test tests/test_station.py::test_check_location passed
+2024-07-21 14:36:10,127 - log_config - INFO - Test tests/test_station.py::test_check_location passed
+2024-07-21 14:36:10,127 - log_config - INFO - Test tests/test_station.py::test_check_location passed
+2024-07-21 14:36:10,127 - log_config - INFO - Test tests/test_station.py::test_check_location passed
+2024-07-21 14:36:10,127 - log_config - INFO - Test tests/test_station.py::test_check_location passed
+2024-07-21 14:36:10,127 - log_config - INFO - Test tests/test_station.py::test_check_location passed
+2024-07-21 14:36:10,127 - log_config - INFO - Test tests/test_station.py::test_check_location passed
+2024-07-21 14:36:10,127 - log_config - INFO - Test tests/test_station.py::test_check_location passed
+2024-07-21 14:36:10,127 - log_config - INFO - Test tests/test_station.py::test_check_location passed
+2024-07-21 14:36:10,127 - log_config - INFO - Test tests/test_station.py::test_check_location passed
+2024-07-21 14:36:10,128 - log_config - INFO - Test session finishes
+2024-07-21 14:36:10,128 - log_config - INFO - Test session finishes
+2024-07-21 14:36:10,128 - log_config - INFO - Test session finishes
+2024-07-21 14:36:10,128 - log_config - INFO - Test session finishes
+2024-07-21 14:36:10,128 - log_config - INFO - Test session finishes
+2024-07-21 14:36:10,128 - log_config - INFO - Test session finishes
+2024-07-21 14:36:10,128 - log_config - INFO - Test session finishes
+2024-07-21 14:36:10,128 - log_config - INFO - Test session finishes
+2024-07-21 14:36:10,128 - log_config - INFO - Test session finishes
+2024-07-21 14:36:10,128 - log_config - INFO - Test session finishes
+2024-07-21 14:36:10,128 - log_config - INFO - Test session finishes
+2024-07-21 14:36:10,128 - log_config - INFO - Test session finishes
+2024-07-21 14:36:10,128 - log_config - INFO - Test session finishes
+2024-07-21 14:36:10,128 - log_config - INFO - Test session finishes
+2024-07-21 14:36:10,128 - log_config - INFO - Test session finishes
+2024-07-21 14:36:10,128 - log_config - INFO - Test session finishes
+2024-07-21 14:36:10,128 - log_config - INFO - Test session finishes
+2024-07-21 14:36:10,128 - log_config - INFO - Test session finishes
+2024-07-21 14:36:10,128 - log_config - INFO - Test session finishes
+2024-07-21 14:36:10,129 - log_config - INFO - Exit status: 0
+2024-07-21 14:36:10,129 - log_config - INFO - Exit status: 0
+2024-07-21 14:36:10,129 - log_config - INFO - Exit status: 0
+2024-07-21 14:36:10,129 - log_config - INFO - Exit status: 0
+2024-07-21 14:36:10,129 - log_config - INFO - Exit status: 0
+2024-07-21 14:36:10,129 - log_config - INFO - Exit status: 0
+2024-07-21 14:36:10,129 - log_config - INFO - Exit status: 0
+2024-07-21 14:36:10,129 - log_config - INFO - Exit status: 0
+2024-07-21 14:36:10,129 - log_config - INFO - Exit status: 0
+2024-07-21 14:36:10,129 - log_config - INFO - Exit status: 0
+2024-07-21 14:36:10,129 - log_config - INFO - Exit status: 0
+2024-07-21 14:36:10,129 - log_config - INFO - Exit status: 0
+2024-07-21 14:36:10,129 - log_config - INFO - Exit status: 0
+2024-07-21 14:36:10,129 - log_config - INFO - Exit status: 0
+2024-07-21 14:36:10,129 - log_config - INFO - Exit status: 0
+2024-07-21 14:36:10,129 - log_config - INFO - Exit status: 0
+2024-07-21 14:36:10,129 - log_config - INFO - Exit status: 0
+2024-07-21 14:36:10,129 - log_config - INFO - Exit status: 0
+2024-07-21 14:36:10,129 - log_config - INFO - Exit status: 0
